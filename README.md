@@ -2,7 +2,7 @@
 
 ## Description
 
- The project was created as a tool for students to utilize as a study guide throughout the course.Students now have an organized way to study while understanding the development of the tool being utilzed. My motivation for this project was to learn the basics to what I will be studying and apply the knowledge recieved into a real world application such as a study guide tool.Through this project I've learned how to create a Github Repo, the Github workflow, how to setup HTML and create/link CSS files as well as how to incorporate array and for loops into a javascript file
+ The project was created as a tool for students to use as a study guide throughout the course. Students now have an organized way to study while understanding the development of the tool being utilized. My motivation for this project was to learn the basics to what I will be studying and apply the knowledge recieved into a real world application such as a study guide tool.Through this project I've learned how to create a Github Repo, the Github workflow, how to setup HTML and create/link CSS files as well as how to incorporate array and for loops into a javascript file
 
 ## Installation
 
